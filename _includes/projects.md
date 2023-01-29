@@ -9,7 +9,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/project_ear.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/project_ear.png" class="teaser_h img-fluid z-depth-1">
   </div>
 
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
@@ -28,7 +28,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/project_2.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/project_2.png" class="teaser_h img-fluid z-depth-1">
   </div>
 
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
@@ -47,7 +47,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/project_3.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/project_3.png" class="teaser_h img-fluid z-depth-1">
   </div>
 
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
