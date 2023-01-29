@@ -9,35 +9,12 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/project_sgg.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/project_ear.png" class="teaser img-fluid z-depth-1">
   </div>
 
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch" target="_blank">Scene Graph Benchmark in Pytorch</a> <strong><i style="color:#e74d3c">(835 Github Stars)</i></strong></div>
-    <div>This project aims to provide a new codebase for Scene Graph Generation (SGG). It is built on top of the well-known maskrcnn-benchmark. Moreover, I included all the exsiting metrics: R@K, mR@K, ngR@K, zR@K, to benchmark the SGG.</div>
-  </div>
-  
-</div>
-</li>
-  
-<br>
-
-
-
-
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/project_lt.png" class="teaser img-fluid z-depth-1">
-  </div>
-
-  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://github.com/KaihuaTang/Long-Tailed-Recognition.pytorch" target="_blank">Long-Tailed Recognition in Pytorch</a> <strong><i style="color:#e74d3c">(516 Github Stars)</i></strong></div>
-    <div>This project provides a strong single-stage baseline for Long-Tailed Classification, Detection, and Instance Segmentation (under LVIS dataset). This project can be easily generalized to other tasks with unbalanced datasets.</div>
-      <!--
-      <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
-       -->
+    <div class="title">Anthropometric assessment and analysis of asian ears</div>
+    <div>The current hearing instrument is designed and tested based on Standard KEMAR Ear, which was initially developed based on males and females from the US Air Force. However, it is unknown whether the Standard KEMAR Ear provide good representation of the polulation across different races and geographical locations. This project aims to construct a standard ear model (including pinna, concha, and external auditory canal) for Asian polulation. </div>
   </div>
   
 </div>
@@ -51,15 +28,12 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/project_vqa.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/project_2.png" class="teaser img-fluid z-depth-1">
   </div>
 
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://github.com/KaihuaTang/VQA2.0-Recent-Approachs-2018.pytorch" target="_blank">VQA2.0 Recent Approachs 2018 in Pytorch</a> <strong><i style="color:#e74d3c">(273 Github Stars)</i></strong></div>
-    <div>An open-source visual question answering (VQA) codebase built on top of the bottom-up-attention-vqa. It integrates several popular VQA papers published in 2018.</div>
-      <!--
-      <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
-       -->
+    <div class="title">Eye-tracking based techniques for understanding mental states and cognitive performance of students in online learining</div>
+    <div>The Covid-19 pandemic has posed an unprecedented crisis in the education domain, leading to a worldwide transition from a face-to-face teaching mode to a online learning mode. This project specifically focuses on mental stress that students perceived in online learning context. The effect of stress on higher-level cognitive processing is investigated based on eye movement measurements.</div>
   </div>
   
 </div>
@@ -73,22 +47,18 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/project_game.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/project_3.png" class="teaser img-fluid z-depth-1">
   </div>
 
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Indie Game Development</div>
-    <div>Out of interest, I independently developed several mobile games on Iphone. They have been downloaded over 10k times on Apple store in half a year.</div>
-      <!--
-      <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
-       -->
+    <div class="title">Human factors based technology for enhancing operator's performance</div>
+    <div> The project aims to propose methods for the evaluation of the operators' technical and non-technical skills and real-time monitoring of stress and fatigue during the vessel traffic operations.</div>
   </div>
   
 </div>
 </li>
   
 <br>
-
 
 
 </ol>

@@ -1,6 +1,6 @@
 # Basic Information 
 title: Ziqing Xia
-titlecn: 夏子清
+#titlecn: 夏子清
 position: Ph.D. Candidate
 affiliation: Nanyang Technological University 
 email: ziqing.xia (at) ntu.edu.sg
@@ -13,7 +13,7 @@ canonical: https://ziqingxia.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-#google_scholar: https://scholar.google.com.sg/citations?user=WuO1sSkAAAAJ&hl=en
+google_scholar: https://scholar.google.com/citations?hl=en&user=oXYUd1AAAAAJ
 #cv_link: assets/files/KaihuaTang_Resume.pdf
 github_link: https://github.com/ziqingxia
 linkedin: https://www.researchgate.net/profile/Ziqing-Xia
@@ -21,7 +21,7 @@ linkedin: https://www.researchgate.net/profile/Ziqing-Xia
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/me4.png
+avatar: ./assets/img/Ziqing-Xia.jpg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
