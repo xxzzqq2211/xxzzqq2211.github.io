@@ -13,7 +13,7 @@ canonical: https://ziqingxia.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com.sg/citations?user=WuO1sSkAAAAJ&hl=en
+#google_scholar: https://scholar.google.com.sg/citations?user=WuO1sSkAAAAJ&hl=en
 #cv_link: assets/files/KaihuaTang_Resume.pdf
 github_link: https://github.com/ziqingxia
 linkedin: https://www.researchgate.net/profile/Ziqing-Xia
@@ -22,8 +22,8 @@ linkedin: https://www.researchgate.net/profile/Ziqing-Xia
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/me4.png
-favicon: ./assets/img/icon_ailurus.png
-favicon_dark: ./assets/img/icon_ailurus.png
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
@@ -31,7 +31,7 @@ enable_footnote: true
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
-google_analytics: G-G8DYG175QY
+# google_analytics: G-G8DYG175QY
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
