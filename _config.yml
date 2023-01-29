@@ -1,23 +1,23 @@
 # Basic Information 
-title: Kaihua Tang
-titlecn: 汤凯华
-position: Postdoctoral Researcher
+title: Ziqing Xia
+titlecn: 夏子清
+position: Ph.D. Candidate
 affiliation: Nanyang Technological University 
-email: tkhchipaomian (at) gmail.com
+email: ziqing.xia (at) ntu.edu.sg
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: homepage
-description: This is the academic homepage of Dr. Kaihua Tang.
-canonical: https://kaihuatang.github.io/
+description: This is the academic homepage of Ziqing Xia.
+canonical: https://ziqingxia.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com.sg/citations?user=WuO1sSkAAAAJ&hl=en
-cv_link: assets/files/KaihuaTang_Resume.pdf
-github_link: https://github.com/KaihuaTang
-linkedin: https://www.linkedin.com/in/kaihua-tang-1b2522125/
-twitter: https://twitter.com/northShepherd_
+#cv_link: assets/files/KaihuaTang_Resume.pdf
+github_link: https://github.com/ziqingxia
+linkedin: https://www.researchgate.net/profile/Ziqing-Xia
+#twitter: https://twitter.com/northShepherd_
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
